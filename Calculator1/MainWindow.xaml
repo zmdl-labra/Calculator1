@@ -43,7 +43,7 @@
                 Grid.Row="1"
                 Grid.Column="2"/>
         <Button x:Name="divisionButton"
-                Style="{StaticResource operatorButtonsStyle}"
+               
                 Content="/"
                 Grid.Row="1"
                 Grid.Column="3"/>
